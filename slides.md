@@ -67,7 +67,7 @@ align: center
 title: Presenter
 ---
 
-<img src="/public/HV-600x600.JPG" height=250 width=250 class="rounded-[3%]"/>
+<img src="/HV-600x600.JPG" height=250 width=250 class="rounded-[3%]"/>
 
 **Dr. Hamid Vakilzadeh, PhD, CFE**
 
