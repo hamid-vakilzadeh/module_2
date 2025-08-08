@@ -595,6 +595,71 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
     </ul>
   </div>
 
+</div>
+
+
+<style>
+.platform-features {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  margin: 20px 0;
+}
+
+.feature-section {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.feature-section h3 {
+  color: #414833;
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.feature-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.feature-section li {
+  padding: 3px 0;
+  color: #666;
+  position: relative;
+  padding-left: 15px;
+  font-size: 0.9rem;
+}
+
+.feature-section li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #2ecc71;
+  font-weight: bold;
+}
+
+.platform-importance {
+  background: #e8f4fd;
+  border-left: 4px solid #3A85DD;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 0 8px 8px 0;
+  color: #1a365d;
+  font-size: 0.9rem;
+}
+</style>
+---
+
+# The Enterprise Hub
+
+**The developer and enterprise control center for professional ChatGPT implementation:**
+
+<div class="platform-features">
+
+
   <div class="feature-section">
     <h3>🏢 Enterprise Controls</h3>
     <ul>
@@ -781,6 +846,7 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
 <div class="professional-recommendation">
 <strong>Professional Recommendation:</strong> Team plans represent minimum acceptable security level for CPA firms
 </div>
+
 
 <style>
 .pricing-grid {
@@ -1013,10 +1079,6 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
   </div>
 </div>
 
-**Case Study: Capital Area Food Bank**
-- Physical mail processing: **4 hours → 20 minutes**
-- No additional implementation costs
-- Improved accuracy and consistency
 
 <style>
 .capabilities-showcase {
@@ -1077,14 +1139,57 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
   <div class="video-placeholder">
     <div class="play-button">▶</div>
     <h3>Document Processing Demo</h3>
-    <p>Live demonstration of invoice processing, financial statement analysis, tax document review</p>
   </div>
 </div>
 
+
+<style>
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.video-placeholder {
+  width: 500px;
+  height: 300px;
+  background: linear-gradient(135deg, #414833, #7F4F24);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+}
+
+.play-button {
+  font-size: 3rem;
+  margin-bottom: 15px;
+  opacity: 0.9;
+}
+
+.video-placeholder h3 {
+  font-size: 1.4rem;
+  margin-bottom: 8px;
+}
+
+.video-placeholder p {
+  font-size: 1rem;
+  opacity: 0.9;
+  margin: 0;
+  padding: 0 20px;
+}
+</style>
+
+<!--
 **What we'll demonstrate:**
 - Invoice data extraction in real-time
 - Financial statement analysis
 - Tax document processing accuracy
+-->
 
 ---
 
@@ -1238,14 +1343,58 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
   <div class="video-placeholder">
     <div class="play-button">▶</div>
     <h3>Custom GPT Creation Demo</h3>
-    <p>Step-by-step GPT Builder walkthrough, configuration, testing, and deployment</p>
   </div>
 </div>
 
+
+
+<style>
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.video-placeholder {
+  width: 500px;
+  height: 300px;
+  background: linear-gradient(135deg, #414833, #7F4F24);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+}
+
+.play-button {
+  font-size: 3rem;
+  margin-bottom: 15px;
+  opacity: 0.9;
+}
+
+.video-placeholder h3 {
+  font-size: 1.4rem;
+  margin-bottom: 8px;
+}
+
+.video-placeholder p {
+  font-size: 1rem;
+  opacity: 0.9;
+  margin: 0;
+  padding: 0 20px;
+}
+</style>
+
+<!--
 **What we'll demonstrate:**
 - GPT Builder interface navigation
 - Knowledge file upload process
 - Testing custom GPT functionality
+-->
 
 ---
 
@@ -1259,10 +1408,54 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
   </div>
 </div>
 
+
+<style>
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.video-placeholder {
+  width: 500px;
+  height: 300px;
+  background: linear-gradient(135deg, #414833, #7F4F24);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+}
+
+.play-button {
+  font-size: 3rem;
+  margin-bottom: 15px;
+  opacity: 0.9;
+}
+
+.video-placeholder h3 {
+  font-size: 1.4rem;
+  margin-bottom: 8px;
+}
+
+.video-placeholder p {
+  font-size: 1rem;
+  opacity: 0.9;
+  margin: 0;
+  padding: 0 20px;
+}
+</style>
+
+<!--
 **What we'll demonstrate:**
 - Langflow visual interface
 - Drag-and-drop workflow creation
 - ChatGPT API connection setup
+-->
 
 ---
 
@@ -1483,7 +1676,7 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
 </style>
 
 ---
-layout: two-cols
+layout: default
 ---
 
 # Next Steps: Your Action Plan
@@ -1500,7 +1693,6 @@ layout: two-cols
 3. **Begin pilot testing**
 4. **Document procedures**
 
-::right::
 
 ## Long-term Objectives (3-6 Months)
 1. **Scale successful applications**
