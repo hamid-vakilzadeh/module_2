@@ -5,11 +5,11 @@ theme: ./theme
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: ChatGPT Ecosystem Mastery for CPAs
+title: AI for Accountants- A Practical Guide to ChatGPT and Data Security
 info: |
   ## Presentation
-  AI for Accountants: A Practical Guide to ChatGPT and Data Security
-  Erie Conference - 2:05 PM - 2:55 PM
+  Small Firm Practitioners Conference
+  Wednesday, August 13, 2025 - 2:05 PM - 2:55 PM
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
@@ -48,11 +48,11 @@ layout: cover
 transition: none
 ---
 
-# ChatGPT Ecosystem Mastery for CPAs
+# AI for Accountants: A Practical Guide to ChatGPT and Data Security
 
-## AI for Accountants: A Practical Guide to ChatGPT and Data Security
+## Small Firm Practitioners Conference
 
-## Erie Conference - 2:05 PM - 2:55 PM
+## Wednesday, August 13, 2025 - 2:05 PM - 2:55 PM
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
   Press Space for next page <carbon:arrow-right />
@@ -272,29 +272,75 @@ University of Wisconsin-Whitewater
 
 ChatGPT serves **485 million users globally** with **74.8% market share** in AI search, transforming from simple chatbot into comprehensive business productivity platform.
 
-<div class="grid grid-cols-2 gap-8 mt-6">
+<div class="matter-grid">
 
-<div>
+<div class="matter-card">
+<div class="matter-icon">📈</div>
+<h3>The Professional Opportunity</h3>
+<ul>
+<li>High accuracy in document processing</li>
+<li>Enterprise-grade security for compliance</li>
+<li>API integration for workflow automation</li>
+</ul>
+</div>
 
-### The Professional Opportunity
-- **90%+ accuracy** in document processing
-- **4 hours → 30 minutes** memo preparation  
-- **Enterprise-grade security** for compliance
-- **API integration** for workflow automation
+<div class="matter-card">
+<div class="matter-icon">⚠️</div>
+<h3>The Challenge</h3>
+<ul>
+<li>Understanding complete ecosystem architecture</li>
+<li>Pricing and security requirements</li>
+<li>Professional responsibility considerations</li>
+<li>Implementation planning and risk management</li>
+</ul>
+</div>
 
 </div>
 
-<div>
+<style>
+.matter-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin: 20px 0;
+}
 
-### The Challenge
-- Understanding complete ecosystem architecture
-- Navigating pricing and security requirements
-- Professional responsibility considerations  
-- Implementation planning and risk management
+.matter-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
 
-</div>
+.matter-card:hover {
+  transform: translateY(-3px);
+}
 
-</div>
+.matter-icon {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.matter-card h3 {
+  color: #414833;
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.matter-card ul {
+  text-align: left;
+  color: #666;
+  line-height: 1.4;
+  font-size: 0.9rem;
+}
+
+.matter-card li {
+  margin-bottom: 4px;
+}
+</style>
 
 ---
 
