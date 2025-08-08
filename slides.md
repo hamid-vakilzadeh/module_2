@@ -69,7 +69,7 @@ title: Presenter
 
 <img src="/HV-600x600.JPG" height=250 width=250 class="rounded-[3%]"/>
 
-**Dr. Hamid Vakilzadeh, PhD, CFE**
+**Hamid Vakilzadeh, PhD**
 
 Associate Professor, Department of Accounting
 
@@ -1794,34 +1794,18 @@ layout: default
 </style>
 
 ---
-
+layout: center
+align: center
+---
 # Thank You
 
 ## Questions & Discussion
 
-### Contact Information
-**Dr. Hamid Vakilzadeh, PhD, CFE**  
+**Hamid Vakilzadeh, PhD**  
 Associate Professor, Department of Accounting  
 University of Wisconsin-Whitewater
 
-### Resources
-- **Security:** security.openai.com
-- **API Docs:** platform.openai.com/docs  
-- **Standards:** aicpa.org
 
-<div class="disclaimer">
-This presentation provides educational information and does not constitute professional advice. 
-Consult with qualified professionals for specific implementation guidance.
-</div>
+---
 
-<style>
-.disclaimer {
-  margin-top: 30px;
-  padding: 15px;
-  background: #f8f9fa;
-  border-radius: 8px;
-  color: #666;
-  font-size: 0.85rem;
-  text-align: center;
-}
-</style>
+*This presentation provides educational information and does not constitute professional advice. Consult with qualified professionals for specific implementation guidance.*
