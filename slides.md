@@ -1681,30 +1681,117 @@ layout: default
 
 # Next Steps: Your Action Plan
 
-## Immediate Actions (This Week)
-1. **Assess current firm AI readiness**
-2. **Review professional liability insurance**  
-3. **Begin developing AI usage policies**
-4. **Identify 2-3 pilot use cases**
+<div class="action-plan-grid">
+  <div class="action-card">
+    <div class="action-icon">⚡</div>
+    <h3>This Week</h3>
+    <ul>
+      <li>Assess AI readiness</li>
+      <li>Review insurance</li>
+      <li>Draft policies</li>
+    </ul>
+  </div>
 
-## Short-term Goals (Next Month)
-1. **Select ChatGPT subscription**
-2. **Train select staff on basics**
-3. **Begin pilot testing**
-4. **Document procedures**
+  <div class="action-card">
+    <div class="action-icon">📋</div>
+    <h3>Next Month</h3>
+    <ul>
+      <li>Select subscription</li>
+      <li>Train staff</li>
+      <li>Begin testing</li>
+    </ul>
+  </div>
 
+  <div class="action-card">
+    <div class="action-icon">🚀</div>
+    <h3>3-6 Months</h3>
+    <ul>
+      <li>Scale applications</li>
+      <li>Custom GPTs</li>
+      <li>API integration</li>
+    </ul>
+  </div>
 
-## Long-term Objectives (3-6 Months)
-1. **Scale successful applications**
-2. **Develop custom GPTs**
-3. **Consider API integration**
-4. **Measure and optimize ROI**
+  <div class="action-card">
+    <div class="action-icon">📊</div>
+    <h3>Success Metrics</h3>
+    <ul>
+      <li>300%+ ROI</li>
+      <li>90%+ accuracy</li>
+      <li>4hrs → 30min</li>
+    </ul>
+  </div>
+</div>
 
-## Success Metrics
-- **Time savings:** 300%+ ROI documented
-- **Accuracy:** 90%+ document processing
-- **Efficiency:** 4 hours → 30 minutes (memos)
-- **Client satisfaction:** Enhanced service delivery
+<style>
+.action-plan-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+  margin: 15px 0;
+}
+
+.action-card {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.action-card:hover {
+  transform: translateY(-3px);
+}
+
+.action-icon {
+  font-size: 1.8rem;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.action-card h3 {
+  color: #414833;
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.action-timeframe {
+  color: #7F4F24;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 0.8rem;
+}
+
+.action-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.action-card li {
+  padding: 2px 0;
+  color: #666;
+  position: relative;
+  padding-left: 12px;
+  font-size: 1rem;
+  line-height: 1.3;
+}
+
+.action-card li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #2ecc71;
+  font-weight: bold;
+  font-size: 0.7rem;
+}
+
+.metrics li strong {
+  color: #414833;
+}
+</style>
 
 ---
 
