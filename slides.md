@@ -1444,6 +1444,129 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
 
 ---
 
+# Integration with workflow automation tools
+We go with Langflow
+
+<div class="langflow-intro">
+
+<div class="intro-content">
+<div class="langflow-logo">🔗</div>
+<h2>Visual AI Workflow Builder</h2>
+<p class="tagline">Drag-and-drop interface for creating complex AI applications without coding</p>
+</div>
+
+<div class="features-grid">
+
+<div class="feature-card">
+<div class="feature-icon">🎨</div>
+<h3>Visual Interface</h3>
+<ul>
+<li>Drag-and-drop components</li>
+<li>No coding required</li>
+<li>Real-time workflow preview</li>
+</ul>
+</div>
+
+<div class="feature-card">
+<div class="feature-icon">🔌</div>
+<h3>API Integration</h3>
+<ul>
+<li>Connect to ChatGPT & other AI models</li>
+<li>Database connections</li>
+<li>Third-party services</li>
+</ul>
+</div>
+
+<div class="feature-card">
+<div class="feature-icon">⚡</div>
+<h3>For Accountants</h3>
+<ul>
+<li>Document processing workflows</li>
+<li>Automated data analysis</li>
+<li>Client report generation</li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<style>
+.langflow-intro {
+  padding: 10px 0;
+}
+
+.intro-content {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.langflow-logo {
+  font-size: 2.5rem;
+  margin-bottom: 8px;
+}
+
+.intro-content h2 {
+  color: #414833;
+  font-size: 1.6rem;
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+
+.tagline {
+  font-size: 1rem;
+  color: #666;
+  max-width: 500px;
+  margin: 0 auto 15px auto;
+  line-height: 1.3;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  margin: 15px 0;
+}
+
+.feature-card {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-2px);
+}
+
+.feature-icon {
+  font-size: 1.8rem;
+  margin-bottom: 8px;
+}
+
+.feature-card h3 {
+  color: #414833;
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.feature-card ul {
+  text-align: left;
+  color: #666;
+  line-height: 1.4;
+  font-size: 0.9rem;
+}
+
+.feature-card li {
+  margin-bottom: 4px;
+}
+</style>
+
+---
+
 # 🎥 VIDEO DEMO: Simple Langflow API Example
 
 <div class="video-container">
