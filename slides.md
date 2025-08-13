@@ -433,10 +433,7 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
 # 🎥 VIDEO DEMO: ChatGPT Web Interface Walkthrough
 
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="play-button">▶</div>
-    <h3>ChatGPT.com Demo</h3>
-  </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iRXK3Abfo2o" title="ChatGPT.com Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!--
@@ -569,10 +566,7 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
 
 
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="play-button">▶</div>
-    <h3>Desktop App Demo</h3>
-  </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6hOrAAS8PfU" title="Desktop App Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -781,11 +775,7 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
 # 🎥 VIDEO DEMO: Platform.openai.com Walkthrough
 
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="play-button">▶</div>
-    <h3>Platform.openai.com Demo</h3>
-    <p>Enterprise hub navigation, API setup, and team management</p>
-  </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xQ6N-aP4dvI" title="Platform.openai.com Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!--
@@ -1182,10 +1172,7 @@ ChatGPT serves **485 million users globally** with **74.8% market share** in AI 
 # 🎥 VIDEO DEMO: Document Processing Capabilities
 
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="play-button">▶</div>
-    <h3>Document Processing Demo</h3>
-  </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yFJZvlEH-9g" title="Document Processing Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
@@ -1570,11 +1557,7 @@ We go with Langflow
 # 🎥 VIDEO DEMO: Simple Langflow API Example
 
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="play-button">▶</div>
-    <h3>Langflow Example Demo</h3>
-    <p>Visual workflow builder demonstration showing ChatGPT API integration</p>
-  </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/oxH2deXnNdE" title="Langflow Example Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
